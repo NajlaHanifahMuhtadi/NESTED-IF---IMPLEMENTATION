@@ -10,3 +10,7 @@ void inputbmi(){ //deklarasi fungsi. void = mengembalikan nilai
     cout << "Masukkan Tinggi Basdan (m) : ";
     cin >> tinggi;
 }
+
+float hitungbmi (float a, float b){
+    
+}
