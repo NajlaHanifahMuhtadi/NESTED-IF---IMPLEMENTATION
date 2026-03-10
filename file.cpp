@@ -14,3 +14,7 @@ void inputbmi(){ //deklarasi fungsi. void = mengembalikan nilai
 float hitungbmi (float a, float b){
     return a / (b*b);
 }
+
+string statusbmi (float bmi){
+    
+}
